@@ -1,0 +1,2 @@
+x="Money"
+print(x)
